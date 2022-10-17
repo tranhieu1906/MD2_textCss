@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.blue{
+    color:#3869cd;
+}
+.main{
+    margin:20px;
+    width: 780px;
+}
+h4{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.shift{
+    padding-left: 30px;
+}
